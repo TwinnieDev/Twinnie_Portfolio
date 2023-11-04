@@ -58,7 +58,15 @@ export const Banner = () => {
                                             <span className="wrap">{text}</span>
                                         </h1>
                                     </div>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p>
+                                        Hi! My name is Huỳnh Minh Thuyên. You can call me Twinnie.I live in Ho Chi Minh City.
+                                        Welcome to my Portfolio. Let "enjoy cái momment này".
+                                        I graduated from College of "Cao đẳng Kinh tế - Công nghệ TP.HCM".
+                                        Major: software technology and have a Manual Test course certificate.
+                                        Personality: hardworking, sociable, cheerful,... Near future orientation:
+                                        Become a professional Frontend Developer, learn new knowledge, become an excellent employee who brings a lot of value to the company
+
+                                    </p>
                                     <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
                                 </div>}
                         </TrackVisibility>

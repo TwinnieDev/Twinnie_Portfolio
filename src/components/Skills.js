@@ -38,7 +38,13 @@ export const Skills = () => {
                                 Skills
                             </h2>
                             <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                I have knowledge about HTML, CSS, SASS, Javascript, framework: ReactJS,Bootstrap,Jquery
+                                a little PHP, ASP and Manual Testing.
+                                I can do Manual Testing and become the Tester if you want.
+                                I can write test script, test case, know skill testing ex:
+                                "Equivalence partitioning","Boundary value analysis","Decision Tables",... 
+                                good English skill
+                                and good skills Microsoft Office: (World, Excel, Power Ponit)
                             </p>
                             <Carousel responsive={responsive} infinite={true} className="skill-slider">
                                 <div className="item">
