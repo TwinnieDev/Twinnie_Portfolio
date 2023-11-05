@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Twinnie_Portfolio/static/css/main.5cd7f45a.css",
-    "main.js": "/Twinnie_Portfolio/static/js/main.c049d2f3.js",
+    "main.js": "/Twinnie_Portfolio/static/js/main.cb24b8da.js",
     "static/js/787.72fc65e2.chunk.js": "/Twinnie_Portfolio/static/js/787.72fc65e2.chunk.js",
     "static/media/color-sharp.png": "/Twinnie_Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Twinnie_Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -27,11 +27,11 @@
     "static/media/nav-icon1.svg": "/Twinnie_Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/Twinnie_Portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.5cd7f45a.css.map": "/Twinnie_Portfolio/static/css/main.5cd7f45a.css.map",
-    "main.c049d2f3.js.map": "/Twinnie_Portfolio/static/js/main.c049d2f3.js.map",
+    "main.cb24b8da.js.map": "/Twinnie_Portfolio/static/js/main.cb24b8da.js.map",
     "787.72fc65e2.chunk.js.map": "/Twinnie_Portfolio/static/js/787.72fc65e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5cd7f45a.css",
-    "static/js/main.c049d2f3.js"
+    "static/js/main.cb24b8da.js"
   ]
 }
