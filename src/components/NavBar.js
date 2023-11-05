@@ -32,7 +32,11 @@ export const NavBar = () => {
     return (
         <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
             <Container>
+<<<<<<< HEAD
                 <Navbar.Brand href="/Twinnie_Portfolio/">
+=======
+                <Navbar.Brand href="#">
+>>>>>>> 64fc7d315a15374db32c82980ea18b60f0436441
                     <img src={logo} alt="Logo" />
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav">
