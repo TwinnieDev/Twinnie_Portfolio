@@ -1,9 +1,11 @@
 /* eslint-disable jsx-a11y/alt-text */
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projImg1 from "../assets/img/project-img1.png";
-import projImg2 from "../assets/img/project-img2.png";
-import projImg3 from "../assets/img/project-img3.png";
+import projImg1 from "../assets/img/bur.png";
+import projImg2 from "../assets/img/game.png";
+import projImg3 from "../assets/img/por.png";
+import projImg4 from "../assets/img/bak.png";
+import projImg5 from "../assets/img/clo.png";
 import colorSharp2 from "../assets/img/color-sharp2.png"
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -19,7 +21,7 @@ export const Projects = () => {
             href: 'https://twinniedev.github.io/BurrgerNice/'
         },
         {
-            title: "Project Clone FrontEnd Shoping Page",
+            title: "Project Clone FrontEnd Game sale",
             description: "Design & Development",
             imgUrl: projImg2,
             href: 'https://twinniedev.github.io/TwinGames/'
@@ -31,16 +33,16 @@ export const Projects = () => {
             href: 'https://twinniedev.github.io/Twinnie_Portfolio/'
         },
         {
-            title: "Project FrontEnd Landing Page",
+            title: "Project Frontend Bakery Shop",
             description: "Design & Development",
-            imgUrl: projImg1,
-            href: 'https://twinniedev.github.io/BurrgerNice/'
+            imgUrl: projImg4,
+            href: 'https://twinniedev.github.io/twinnie_bakery/'
         },
         {
-            title: "Project Clone FrontEnd Shoping Page",
+            title: "Project Frontend Clothes Shop",
             description: "Design & Development",
-            imgUrl: projImg2,
-            href: 'https://twinniedev.github.io/TwinGames/'
+            imgUrl: projImg5,
+            href: 'https://twinniedev.github.io/twinclothes/doan2'
         },
         {
             title: "Project Portfolio Page",
