@@ -64,7 +64,7 @@ export const Projects = () => {
                                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                                     <h2>Projects</h2>
                                     <p>
-                                        This is a few projects i used to be do it. Almost projecct i code with HTML, CSS, JS. But project Portfolio i use ReactJS. Please watch and rate me on a scale of 1 to 10 to my project.
+                                        This is a few projects i used to be do it. Almost project i code with HTML, CSS, JS. But project Portfolio i use ReactJS. Please watch and rate me on a scale of 1 to 10 to my project.
                                         Hope to see your review soon
                                     </p>
                                     <Tab.Container id="projects-tabs" defaultActiveKey="first">
